@@ -4,8 +4,8 @@ lang: "zh-CN" #页面语言中文
 # 个人信息
 title: "我的链接主页"
 avatar: "./assets/images/profile.jpg" #头像，后面上传图片替换
-name: "你的名字"
-tagline: "一句话简介，写你的介绍"
+name: "-物理"
+tagline: "虚拟歌手创作者/独立音乐人"
 
 # 所有链接按钮，已经帮你写好对应图标
 links:
