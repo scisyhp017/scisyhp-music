@@ -3,7 +3,7 @@ lang: "zh-CN" #页面语言中文
 
 # 个人信息
 title: "我的链接主页"
-avatar: "./assets/images/profile.jpg"
+avatar: "/scisyhp-music/assets/images/profile.jpg"
 name: "-物理"
 tagline: "虚拟歌手创作者/独立音乐人"
 
